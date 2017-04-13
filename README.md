@@ -6,3 +6,4 @@ Here's my submission to Programming Assignment #2.
 
 If you haven't read this at least three times, you'll never understand how the code you produce actually works. 
 
+This is a new line
